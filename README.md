@@ -9,6 +9,8 @@
   </ul>
 </div>
 
+<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a0cae095-5286-416d-8813-c5017421fc3c)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 <!--- snake -->
 <div align="center">
