@@ -8,10 +8,7 @@
     <summary><h1 style="display: inline-block">Hi 👋</h1></summary>
   </ul>
 </div>
-
 <!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a0cae095-5286-416d-8813-c5017421fc3c)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
